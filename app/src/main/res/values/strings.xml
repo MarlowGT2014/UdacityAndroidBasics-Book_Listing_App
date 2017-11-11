@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Search for a Book</string>
+    <string name="internetNote">Internet is not currently available.</string>
+</resources>

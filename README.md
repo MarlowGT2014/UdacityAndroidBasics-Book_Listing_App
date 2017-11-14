@@ -7,4 +7,6 @@ This course was a demonstration in Threads and Parallelism, where the data reque
 
 Screenshot of Retrieved Information (Searched: "Android Programming"): 
 
+![screenshot_1510628507](https://user-images.githubusercontent.com/14775517/32761168-cfec1986-c8bf-11e7-83de-7b0af8decad3.png)
+
 
